@@ -4,7 +4,7 @@
   "description": "Almost dark. A playful, understated dark theme with outline product icons for VS Code.",
   "icon": "assets/dark-ish-logo.png",
   "version": "1.0.0",
-  "publisher": "hazicy",
+  "publisher": "hazi",
   "license": "MIT",
   "engines": {
     "vscode": "^1.70.0"
