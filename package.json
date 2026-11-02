@@ -1,0 +1,46 @@
+{
+  "name": "dark-ish-theme",
+  "displayName": "Dark-ish",
+  "description": "Almost dark. A playful, understated dark theme with outline product icons for VS Code.",
+  "icon": "assets/dark-ish-logo.png",
+  "version": "1.0.0",
+  "publisher": "hazicy",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hazicy/dark-ish.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark-ish",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-ish-color-theme.json"
+      }
+    ],
+    "productIconThemes": [
+      {
+        "id": "darkIshOutline",
+        "label": "Dark-ish Outline",
+        "path": "./themes/dark-ish-product-icons-outline.json"
+      }
+    ]
+  },
+  "homepage": "https://github.com/hazicy/dark-ish#readme",
+  "bugs": {
+    "url": "https://github.com/hazicy/dark-ish/issues"
+  },
+  "keywords": [
+    "dark",
+    "theme",
+    "graphite",
+    "teal",
+    "outline"
+  ]
+}

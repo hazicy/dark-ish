@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Dark-ish</title>
+  <desc id="desc">Two offset strokes form an almost continuous hyphen on a graphite tile.</desc>
+  <rect x="8" y="8" width="240" height="240" rx="56" fill="#242424"/>
+  <path d="M68 135H127" stroke="#D6DAE0" stroke-width="24" stroke-linecap="round"/>
+  <path d="M151 121H188" stroke="#79C6C0" stroke-width="24" stroke-linecap="round"/>
+</svg>

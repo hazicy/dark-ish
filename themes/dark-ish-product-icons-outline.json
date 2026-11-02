@@ -1,0 +1,749 @@
+{
+  "fonts": [
+    {
+      "id": "dark-ish-ui-icons-outline",
+      "src": [
+        {
+          "path": "../assets/dark-ish-ui-icons-outline.woff2",
+          "format": "woff2"
+        }
+      ],
+      "weight": "normal",
+      "style": "normal"
+    }
+  ],
+  "iconDefinitions": {
+    "zap": {
+      "fontCharacter": "\\f101",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "window": {
+      "fontCharacter": "\\f102",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "window-compact": {
+      "fontCharacter": "\\f103",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "whole-word": {
+      "fontCharacter": "\\f104",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "whitespace": {
+      "fontCharacter": "\\f105",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "watch": {
+      "fontCharacter": "\\f106",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "warning": {
+      "fontCharacter": "\\f107",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "vira-logo": {
+      "fontCharacter": "\\f108",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "unfold": {
+      "fontCharacter": "\\f109",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "triangle-up": {
+      "fontCharacter": "\\f10a",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "triangle-right": {
+      "fontCharacter": "\\f10b",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "triangle-left": {
+      "fontCharacter": "\\f10c",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "triangle-down": {
+      "fontCharacter": "\\f10d",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "trash": {
+      "fontCharacter": "\\f10e",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "tools": {
+      "fontCharacter": "\\f10f",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "todos": {
+      "fontCharacter": "\\f110",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "text-uppercase": {
+      "fontCharacter": "\\f111",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "terminal": {
+      "fontCharacter": "\\f112",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "sync": {
+      "fontCharacter": "\\f113",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "sync-ignored": {
+      "fontCharacter": "\\f114",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "symbol-color": {
+      "fontCharacter": "\\f115",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "symbol-class": {
+      "fontCharacter": "\\f116",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "stop": {
+      "fontCharacter": "\\f117",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "star": {
+      "fontCharacter": "\\f118",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "star-half": {
+      "fontCharacter": "\\f119",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "star-full": {
+      "fontCharacter": "\\f11a",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "split-vertical": {
+      "fontCharacter": "\\f11b",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "split-horizontal": {
+      "fontCharacter": "\\f11c",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "sparkle": {
+      "fontCharacter": "\\f11d",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "sparkle-compact": {
+      "fontCharacter": "\\f11e",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "source-control": {
+      "fontCharacter": "\\f11f",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "sort-precedence": {
+      "fontCharacter": "\\f120",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "shield": {
+      "fontCharacter": "\\f121",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "settings": {
+      "fontCharacter": "\\f122",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "settings-view-bar-icon": {
+      "fontCharacter": "\\f123",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "settings-view-bar-alt": {
+      "fontCharacter": "\\f124",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "settings-gear": {
+      "fontCharacter": "\\f125",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "server": {
+      "fontCharacter": "\\f126",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "server-process": {
+      "fontCharacter": "\\f127",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "server-environment": {
+      "fontCharacter": "\\f128",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "send": {
+      "fontCharacter": "\\f129",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "selection": {
+      "fontCharacter": "\\f12a",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "search": {
+      "fontCharacter": "\\f12b",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "search-stop": {
+      "fontCharacter": "\\f12c",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "search-save": {
+      "fontCharacter": "\\f12d",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "search-1": {
+      "fontCharacter": "\\f12e",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "run": {
+      "fontCharacter": "\\f12f",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "rocket": {
+      "fontCharacter": "\\f130",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "replace": {
+      "fontCharacter": "\\f131",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "replace-all": {
+      "fontCharacter": "\\f132",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "replace-all-1": {
+      "fontCharacter": "\\f133",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "remove": {
+      "fontCharacter": "\\f134",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "remote-explorer": {
+      "fontCharacter": "\\f135",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "regex": {
+      "fontCharacter": "\\f136",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "refresh": {
+      "fontCharacter": "\\f137",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "record-keys": {
+      "fontCharacter": "\\f138",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "radio-tower": {
+      "fontCharacter": "\\f139",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "preview": {
+      "fontCharacter": "\\f13a",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "preserve-case": {
+      "fontCharacter": "\\f13b",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "plus": {
+      "fontCharacter": "\\f13c",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "plug": {
+      "fontCharacter": "\\f13d",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "play": {
+      "fontCharacter": "\\f13e",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "play-all": {
+      "fontCharacter": "\\f13f",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "pinned": {
+      "fontCharacter": "\\f140",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "pin": {
+      "fontCharacter": "\\f141",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "pencil": {
+      "fontCharacter": "\\f142",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "pass": {
+      "fontCharacter": "\\f143",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "pass-filled": {
+      "fontCharacter": "\\f144",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "paperclip": {
+      "fontCharacter": "\\f145",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "panel-right": {
+      "fontCharacter": "\\f146",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "panel-left": {
+      "fontCharacter": "\\f147",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "paintcan": {
+      "fontCharacter": "\\f148",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "output": {
+      "fontCharacter": "\\f149",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "open-in-window": {
+      "fontCharacter": "\\f14a",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "notifications-do-not-disturb": {
+      "fontCharacter": "\\f14b",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "new-folder": {
+      "fontCharacter": "\\f14c",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "new-file": {
+      "fontCharacter": "\\f14d",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "mic": {
+      "fontCharacter": "\\f14e",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "mic-filled": {
+      "fontCharacter": "\\f14f",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "lock": {
+      "fontCharacter": "\\f150",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "live-share": {
+      "fontCharacter": "\\f151",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "list-tree": {
+      "fontCharacter": "\\f152",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "list-selection": {
+      "fontCharacter": "\\f153",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "list-flat": {
+      "fontCharacter": "\\f154",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "link-external": {
+      "fontCharacter": "\\f155",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "lightbulb": {
+      "fontCharacter": "\\f156",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "layout": {
+      "fontCharacter": "\\f157",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "keyboard": {
+      "fontCharacter": "\\f158",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "issues": {
+      "fontCharacter": "\\f159",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "info": {
+      "fontCharacter": "\\f15a",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "infinity": {
+      "fontCharacter": "\\f15b",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "home": {
+      "fontCharacter": "\\f15c",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "history": {
+      "fontCharacter": "\\f15d",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "heart": {
+      "fontCharacter": "\\f15e",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "gripper": {
+      "fontCharacter": "\\f15f",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "go-to-file": {
+      "fontCharacter": "\\f160",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "globe": {
+      "fontCharacter": "\\f161",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "gitlens-stash-save": {
+      "fontCharacter": "\\f162",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "gitlens-prev-commit": {
+      "fontCharacter": "\\f163",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "gitlens-next-commit": {
+      "fontCharacter": "\\f164",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "gitlens-graph": {
+      "fontCharacter": "\\f165",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "gitlens-gitlens": {
+      "fontCharacter": "\\f166",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "gitlens-commit-horizontal": {
+      "fontCharacter": "\\f167",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "git-commit": {
+      "fontCharacter": "\\f168",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "git-branch": {
+      "fontCharacter": "\\f169",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "gear": {
+      "fontCharacter": "\\f16a",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "folder": {
+      "fontCharacter": "\\f16b",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "filter": {
+      "fontCharacter": "\\f16c",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "files": {
+      "fontCharacter": "\\f16d",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "file-directory": {
+      "fontCharacter": "\\f16e",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "file-code": {
+      "fontCharacter": "\\f16f",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "eye": {
+      "fontCharacter": "\\f170",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "extensions": {
+      "fontCharacter": "\\f171",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "extensions-install-count": {
+      "fontCharacter": "\\f172",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "extension-activation-time": {
+      "fontCharacter": "\\f173",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "explorer-view-icon": {
+      "fontCharacter": "\\f174",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "expand-all": {
+      "fontCharacter": "\\f175",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "exclude": {
+      "fontCharacter": "\\f176",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "error": {
+      "fontCharacter": "\\f177",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "ellipsis": {
+      "fontCharacter": "\\f178",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "edit": {
+      "fontCharacter": "\\f179",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "discard": {
+      "fontCharacter": "\\f17a",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "diff-multiple": {
+      "fontCharacter": "\\f17b",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "debug": {
+      "fontCharacter": "\\f17c",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "debug-stop": {
+      "fontCharacter": "\\f17d",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "debug-step-over": {
+      "fontCharacter": "\\f17e",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "debug-step-out": {
+      "fontCharacter": "\\f17f",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "debug-step-into": {
+      "fontCharacter": "\\f180",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "debug-step-back": {
+      "fontCharacter": "\\f181",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "debug-start": {
+      "fontCharacter": "\\f182",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "debug-stackframe": {
+      "fontCharacter": "\\f183",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "debug-stackframe-focused": {
+      "fontCharacter": "\\f184",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "debug-reverse-continue": {
+      "fontCharacter": "\\f185",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "debug-restart": {
+      "fontCharacter": "\\f186",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "debug-restart-frame": {
+      "fontCharacter": "\\f187",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "debug-pause": {
+      "fontCharacter": "\\f188",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "debug-disconnect": {
+      "fontCharacter": "\\f189",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "debug-continue": {
+      "fontCharacter": "\\f18a",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "debug-console": {
+      "fontCharacter": "\\f18b",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "debug-alt": {
+      "fontCharacter": "\\f18c",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "dashboard": {
+      "fontCharacter": "\\f18d",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "compare-changes": {
+      "fontCharacter": "\\f18e",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "comment": {
+      "fontCharacter": "\\f18f",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "comment-discussion": {
+      "fontCharacter": "\\f190",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "collapse-all": {
+      "fontCharacter": "\\f191",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "code": {
+      "fontCharacter": "\\f192",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "code-review": {
+      "fontCharacter": "\\f193",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "cloud": {
+      "fontCharacter": "\\f194",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "cloud-download": {
+      "fontCharacter": "\\f195",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "close": {
+      "fontCharacter": "\\f196",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "close-all": {
+      "fontCharacter": "\\f197",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "clear-all": {
+      "fontCharacter": "\\f198",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "circles": {
+      "fontCharacter": "\\f199",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "circle-large-outline": {
+      "fontCharacter": "\\f19a",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "chevron-up": {
+      "fontCharacter": "\\f19b",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "chevron-right": {
+      "fontCharacter": "\\f19c",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "chevron-left": {
+      "fontCharacter": "\\f19d",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "chevron-down": {
+      "fontCharacter": "\\f19e",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "check": {
+      "fontCharacter": "\\f19f",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "chat": {
+      "fontCharacter": "\\f1a0",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "chat-sparkle": {
+      "fontCharacter": "\\f1a1",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "case-sensitive": {
+      "fontCharacter": "\\f1a2",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "call-outgoing": {
+      "fontCharacter": "\\f1a3",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "call-incoming": {
+      "fontCharacter": "\\f1a4",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "bulb": {
+      "fontCharacter": "\\f1a5",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "bug": {
+      "fontCharacter": "\\f1a6",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "bracket": {
+      "fontCharacter": "\\f1a7",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "book": {
+      "fontCharacter": "\\f1a8",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "bell": {
+      "fontCharacter": "\\f1a9",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "bell-dot": {
+      "fontCharacter": "\\f1aa",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "beaker": {
+      "fontCharacter": "\\f1ab",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "auxiliarybar-maximize": {
+      "fontCharacter": "\\f1ac",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "attach": {
+      "fontCharacter": "\\f1ad",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "arrow-up": {
+      "fontCharacter": "\\f1ae",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "arrow-right": {
+      "fontCharacter": "\\f1af",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "arrow-left": {
+      "fontCharacter": "\\f1b0",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "arrow-down": {
+      "fontCharacter": "\\f1b1",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "ai-customization-skill": {
+      "fontCharacter": "\\f1b2",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "ai-customization-hook": {
+      "fontCharacter": "\\f1b3",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "ai-customization-agent": {
+      "fontCharacter": "\\f1b4",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "add": {
+      "fontCharacter": "\\f1b5",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "activate-breakpoints": {
+      "fontCharacter": "\\f1b6",
+      "fontId": "dark-ish-ui-icons-outline"
+    },
+    "account": {
+      "fontCharacter": "\\f1b7",
+      "fontId": "dark-ish-ui-icons-outline"
+    }
+  }
+}
