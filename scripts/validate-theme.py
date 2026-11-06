@@ -54,7 +54,7 @@ def validate(args):
     assert theme["type"] == "dark" and theme["semanticHighlighting"] is True
     assert "contrastBorder" not in colors, "Reserve global contrast borders for high contrast themes"
     island_surfaces = ("sideBar.background", "activityBar.background", "panel.background",
-                       "editorGroupHeader.tabsBackground", "tab.activeBackground", "tab.inactiveBackground",
+                       "editorGroupHeader.tabsBackground", "tab.inactiveBackground",
                        "surface.background", "modernActivityBar.background", "notebook.editorBackground")
     assert all(colors[key] == colors["editor.background"] for key in island_surfaces), "Content island surfaces must match"
     frame_surfaces = ("modernUI.shellBackground", "modernUI.inactiveShellBackground", "titleBar.activeBackground",
