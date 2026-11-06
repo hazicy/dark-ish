@@ -3,7 +3,7 @@
   "displayName": "Dark-ish",
   "description": "Almost dark. A playful, understated dark theme with outline product icons for VS Code.",
   "icon": "assets/dark-ish-logo.png",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "hazi",
   "license": "MIT",
   "engines": {
